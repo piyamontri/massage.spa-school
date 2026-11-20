@@ -47,3 +47,6 @@ header{background:#faf8f0}.brand small{letter-spacing:1.4px}
   .location{grid-template-columns:1fr}
   .location iframe{height:320px}
 }
+.hero .actions{flex-wrap:wrap}
+.hero .facebook-help{margin:.5rem 0 0;font-size:.9rem}
+#modal .outline{margin-top:.5rem}
