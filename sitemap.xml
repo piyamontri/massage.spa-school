@@ -1,6 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://piyamontri.github.io/massage.spa-school/</loc>
-  </url>
+<url>
+<loc>https://piyamontri.github.io/massage.spa-school/</loc>
+</url>
+<url>
+<loc>https://piyamontri.github.io/massage.spa-school/courses/</loc>
+</url>
+<url>
+<loc>https://piyamontri.github.io/massage.spa-school/courses/thai-massage/</loc>
+</url>
+<url>
+<loc>https://piyamontri.github.io/massage.spa-school/courses/foot-massage/</loc>
+</url>
+<url>
+<loc>https://piyamontri.github.io/massage.spa-school/courses/aromatherapy/</loc>
+</url>
+<url>
+<loc>https://piyamontri.github.io/massage.spa-school/about/</loc>
+</url>
+<url>
+<loc>https://piyamontri.github.io/massage.spa-school/student-guide/</loc>
+</url>
+<url>
+<loc>https://piyamontri.github.io/massage.spa-school/student-guide/faq/</loc>
+</url>
+<url>
+<loc>https://piyamontri.github.io/massage.spa-school/student-guide/admissions/</loc>
+</url>
+<url>
+<loc>https://piyamontri.github.io/massage.spa-school/student-guide/directions/</loc>
+</url>
+<url>
+<loc>https://piyamontri.github.io/massage.spa-school/student-guide/registration/</loc>
+</url>
 </urlset>

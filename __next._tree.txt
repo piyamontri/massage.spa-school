@@ -1,0 +1,6 @@
+:HL["/massage.spa-school/_next/static/css/9a60ce29ee1fafaa.css","style"]
+:HL["/massage.spa-school/_next/static/css/30add48191ccf55f.css","style"]
+:HL["/massage.spa-school/_next/static/css/328c765e6936eb82.css","style"]
+:HL["/massage.spa-school/images/hero-800.webp","image",{"imageSrcSet":"/massage.spa-school/images/hero-480.webp 480w, /massage.spa-school/images/hero-800.webp 800w, /massage.spa-school/images/hero-1200.webp 1200w","imageSizes":"(max-width: 650px) 100vw, 68vw","fetchPriority":"high"}]
+1:[["children",{"s":"__PAGE__","h":160}]]
+0:{"b":"lDXSqsDnMGnajSpF9xzHW","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

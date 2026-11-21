@@ -1,0 +1,4 @@
+:HL["/massage.spa-school/_next/static/css/9a60ce29ee1fafaa.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"_not-found","h":96,"c":"$Q2"}]]
+0:{"b":"lDXSqsDnMGnajSpF9xzHW","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

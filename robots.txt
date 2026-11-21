@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://piyamontri.github.io/massage.spa-school/sitemap.xml
