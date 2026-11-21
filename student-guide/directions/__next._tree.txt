@@ -1,6 +1,6 @@
-:HL["/massage.spa-school/_next/static/css/9a60ce29ee1fafaa.css","style"]
-:HL["/massage.spa-school/_next/static/css/328c765e6936eb82.css","style"]
+:HL["/massage.spa-school/_next/static/css/4ee04521d1adfca0.css","style"]
+:HL["/massage.spa-school/_next/static/css/8a94cc8b7ccb74fe.css","style"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":"directions","h":96,"c":"$Q3"}]]
 1:[["children",{"s":"student-guide","h":96,"c":"$Q2"}]]
-0:{"b":"lDXSqsDnMGnajSpF9xzHW","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"80DJ4rd00jl9LK46rM8Yl","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
